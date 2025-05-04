@@ -1,5 +1,5 @@
 let addition=(a,b)=> {
-let sum=a+b;
-return sum;
+let suming=a+b;
+return summing;
 }
 console.log(addition(10,25));
